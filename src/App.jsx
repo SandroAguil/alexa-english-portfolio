@@ -1,9 +1,9 @@
 import { useState } from "react"
 
-const img1 = "/imagenes/1.jpeg"
-const img2 = "/imagenes/2.jpeg"
-const img4 = "/imagenes/4.jpeg"
-const img6 = "/imagenes/6.jpeg"
+const img1 = "/Imagenes/1.jpeg"
+const img2 = "/Imagenes/2.jpeg"
+const img4 = "/Imagenes/4.jpeg"
+const img6 = "/Imagenes/6.jpeg"
 
 function App() {
 
